@@ -12,30 +12,30 @@
 		<dict>
 			<key>gray</key>
 			<dict>
-				<key>UIPrerenderedIcon</key>
-				<true/>
 				<key>CFBundleIconFiles</key>
 				<array>
 					<string>github-gray</string>
 				</array>
+				<key>UIPrerenderedIcon</key>
+				<true/>
 			</dict>
 			<key>green</key>
 			<dict>
-                <key>UIPrerenderedIcon</key>
-                <true/>
 				<key>CFBundleIconFiles</key>
 				<array>
 					<string>github-green</string>
 				</array>
+				<key>UIPrerenderedIcon</key>
+				<true/>
 			</dict>
 			<key>pink</key>
 			<dict>
-                <key>UIPrerenderedIcon</key>
-                <true/>
 				<key>CFBundleIconFiles</key>
 				<array>
 					<string>github-pink</string>
 				</array>
+				<key>UIPrerenderedIcon</key>
+				<true/>
 			</dict>
 		</dict>
 		<key>CFBundlePrimaryIcon</key>
